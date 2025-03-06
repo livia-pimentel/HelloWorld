@@ -2,11 +2,10 @@
 
 Hello World example project.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 Python
 
 # Useful Websites
 
+* [Python Documentation](https://docs.python.org/3.13/)
